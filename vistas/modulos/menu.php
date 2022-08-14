@@ -297,7 +297,7 @@ if (!isset($_SESSION['session']) && $_SESSION['session'] != 'ok') {
           <a href="miinformacion" class="nav-link">
             <i class="nav-icon fas fa-user"></i>
             <p>
-              Mi información
+              Mi información personal
             </p>
           </a>
         </li>
